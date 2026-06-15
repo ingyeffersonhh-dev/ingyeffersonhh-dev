@@ -1,26 +1,29 @@
-<img 
-  src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" 
-  alt="about me gif" 
-  min-width="300px" 
-  max-width="300px" 
-  width="400px" 
-  align="right" 
-/>
+<table>
+  <tr>
+    <td valign="middle" width="65%">
+      <h3><font size="6">Hi! I'm Yefferson Hernández <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></font></h3>
+      <p>
+        Systems Engineer specializing in Data Engineering and AI. Focused on building scalable data pipelines, predictive modeling, and generative AI integrations. Favouring clean code and solid software engineering foundations over framework dependency.
+      </p>
+    </td>
+    <td valign="middle" width="35%" align="center">
+      <img 
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NjdHI3M2xza3NtcXQ4dGxuMmJlbm9kMzNiMWR5amF0ZDZuemZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" 
+        alt="about me gif" 
+        width="300px" 
+      />
+    </td>
+  </tr>
+</table>
 
-<h1 align="left">Hi! I'm Yefferson Hernández</h1>
-
-<p align="left">
-  Systems Engineer specializing in Data Engineering and AI. Focused on building scalable data pipelines, predictive modeling, and generative AI integrations. Favouring clean code and solid software engineering foundations over framework dependency.
-</p>
-
----
+<hr size="4">
 
 ## My Skills Include
 
 ### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
@@ -38,9 +41,9 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
----
+<hr size="4">
 
-## Featured Projects
+## Created Projects
 
 ### [Churupo Tracker](https://github.com/ingyeffersonhh-dev/churupo-tracker)
 Telegram bot built to track personal expenses under dual currency environments.
@@ -51,7 +54,7 @@ Telegram bot built to track personal expenses under dual currency environments.
 FIFA World Cup 2026 simulator and outcome predictor using historical statistics.
 - **Stack:** Python, Jupyter, Docker
 
----
+<hr size="4">
 
 ## Check out my Social Media
 <p align="left">
@@ -66,8 +69,19 @@ FIFA World Cup 2026 simulator and outcome predictor using historical statistics.
   </a>
 </p>
 
----
+<hr size="4">
 
 ## GitHub Contribution Snake
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ingyeffersonhh-dev/ingyeffersonhh-dev/output/github-contribution-grid-snake.svg)
+
+
+
+<hr size="4">
+
+## GitHub Contribution Snake
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ingyeffersonhh-dev/ingyeffersonhh-dev/output/github-contribution-grid-snake.svg)
+
+
+
