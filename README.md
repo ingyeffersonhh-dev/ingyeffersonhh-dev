@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="middle" width="65%">
-      <h3><font size="6">Hi! I'm Yefferson Hernández <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></font></h3>
+      <h3><font size="6">Hi! I'm Yefferson Hernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></font></h3>
       <p>
         Systems Engineer specializing in Data Engineering and AI. Focused on building scalable data pipelines, predictive modeling, and generative AI integrations. Favouring clean code and solid software engineering foundations over framework dependency.
       </p>
@@ -69,19 +69,8 @@ FIFA World Cup 2026 simulator and outcome predictor using historical statistics.
   </a>
 </p>
 
-<hr size="4">
-
-## GitHub Contribution Snake
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/ingyeffersonhh-dev/ingyeffersonhh-dev/output/github-contribution-grid-snake.svg)
 
 
-
-<hr size="4">
-
-## GitHub Contribution Snake
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/ingyeffersonhh-dev/ingyeffersonhh-dev/output/github-contribution-grid-snake.svg)
 
 
 
